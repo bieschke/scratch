@@ -3,6 +3,7 @@
  */
 const nextConfig = {
   /* config options here */
+  distDir: '.next',
 }
 
 module.exports = nextConfig
